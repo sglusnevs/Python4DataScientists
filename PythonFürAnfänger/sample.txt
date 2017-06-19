@@ -1,0 +1,6 @@
+hello
+world
+Liebe grüße
+these are
+strings from sample.txt
+file

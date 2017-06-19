@@ -1,0 +1,8 @@
+﻿hello
+world
+Привет!
+αγάπη χαιρετισμούς!
+Liebe grüße
+these are
+strings from sample.txt
+file
